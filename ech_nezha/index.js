@@ -29,7 +29,7 @@ let 连续的想念 = 0;
 
 // 情书投递配置
 const 传情的信使 = [
-  'https://dns.google/dns-query',
+  // 'https://dns.google/dns-query',
   'https://cloudflare-dns.com/dns-query',
   'https://dns.alidns.com/dns-query'
 ];
